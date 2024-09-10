@@ -1,9 +1,4 @@
-# Parcial 2 - Elecciones 2023
-
-El siguiente parcial esta orientado a que los alumnos puedan demostrar los conocimientos adquiridos en la materia. 
-Para esto se eligio una tematica vigente en este año electoral, las elecciones 2023.
-
----
+# Elecciones 2023
 
 ## Contexto
 
@@ -61,7 +56,7 @@ Cada distrito está dividido en secciones electorales, que a su vez se dividen e
 
 ### Precondiciones y Aclaraciones
 
-- Para este parcial usaremos los datos oficiales provistos por el Ministerio del Interior de la Nación Argentina 
+- Para este proyecto usaremos los datos oficiales provistos por el Ministerio del Interior de la Nación Argentina 
 en formato CSV que han sido expuestos en una api restful en la siguiente imagen de docker: **tupfrcutn/elecciones-2023:1.0.0**
 - La especificación de la api restful esta disponible en la misma imagen, en el link **http://localhost:<PUERTO>/swagger-ui.html**
 - En la api /resultados, solo se expondrán datos para el distrito 4 (Córdoba), sección 26 (Unión) y para el cargo 1 (PRESIDENTE Y VICE)
